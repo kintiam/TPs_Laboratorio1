@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1554412484 source:c:\users\gutie\desktop\programacion\nueva carpeta\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554500466 source:c:\users\gutie\desktop\programacion\nueva carpeta\calculadora\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1554412738 c:\users\gutie\desktop\programacion\nueva carpeta\calculadora\funciones.h
+
